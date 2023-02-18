@@ -1,8 +1,8 @@
 Hello, and Welcome to "2101: Elysium"!
 
-This game is being created by Ta'Shawn Deshazier, Siwon Jo, and Jana Gileza.
+This game was created by Ta'Shawn Deshazier, Siwon Jo, and Jana Gileza.
 
-We hope you enjoy this final version of our second game project, "2101: Elysium"! 
+We hope you enjoy our game project, "2101: Elysium"! 
 
 "2101: Elysium" is set in a post apocalyptic world, where you as the player must defeat
 the evil alien overlords and restore balance to the world! Shoot guns, use grenades, and 
